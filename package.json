@@ -1,7 +1,7 @@
 {
   "name": "week1",
   "version": "1.0.0",
-  "description": "Challenge 02",
+  "description": "Learning HTML-CSS",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -13,7 +13,7 @@
     "Web",
     "Learning"
   ],
-  "author": "Kevin Gonzales",
+  "author": "Alejandro Cerezo",
   "prettier": {
     "singleQuote": true
   }
